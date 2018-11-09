@@ -3,7 +3,7 @@ Simple example of running depinject
 
 Just run
 
-    gradle runApplication
+    ./gradlew runApplication
 
 And the application runs
 
